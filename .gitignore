@@ -114,6 +114,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .DS_Store
-dags/aws_athena.py
 dags/SELECT
 dags/wexer-dag.py
