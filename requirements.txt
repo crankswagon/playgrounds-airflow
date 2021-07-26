@@ -1,0 +1,4 @@
+pandas
+pyathena
+requests
+bs4

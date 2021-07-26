@@ -78,9 +78,7 @@ def get_query(qkey):
     """
     load predefined SQL templates from S3
     """
-        
-    
-    
+   
     cmd = s3.get_object(
             Bucket='os-airflow-prod',
             Key='sql/'+qkey
